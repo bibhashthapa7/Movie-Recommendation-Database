@@ -1,1 +1,3 @@
 # Movie-Recommendation-Database
+
+This repository hosts a Python-based Movie Database application that offers a wide range of functionalities such as user authentication, movie search, rating, and collections management, among others. Built on a PostgreSQL database, the application utilizes Python's psycopg2 library for seamless data operations. Whether you're looking to watch a new release, find top-rated movies, or manage your own collections, this application has got you covered. Ideal for movie enthusiasts and data hobbyists alike, this project aims to provide a comprehensive and user-friendly interface for all your movie-related needs.
